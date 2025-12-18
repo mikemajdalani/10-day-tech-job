@@ -2,14 +2,13 @@
 
 This module guides you through creating an impressive developer portfolio that showcases your skills and attracts potential employers.
 
-## Episodes (Releasing soon)
+## Episodes
 
-1. Why is a Portfolio So Important
-2. What to Build for a Portfolio
-3. Complete Portfolio Analysis
-4. Own Portfolio Overview
+1. [Why EVERY Developer NEEDS a Portfolio (You're Losing Jobs Without One!)](https://youtu.be/_so1gR-FsxA)
+2. [Portfolio Projects That Actually Get You Hired As Developer (Frontend, Backend, AI & More)](https://youtu.be/b7yW9HL2DUU)
+3. [The Ultimate Developer Portfolio Guide (Real Examples Breakdown)](https://youtu.be/DtKyrLw4K9Y)
 
-## Resources & Templates (Releasing soon)
+## Resources & Templates
 
 All portfolio examples, templates, and project ideas can be found in the [resources](/Day-3-Building-Your-Portfolio/resources) and [templates](/Day-3-Building-Your-Portfolio/templates) directories.
 
