@@ -4,12 +4,8 @@ This module provides strategies for finding and applying to the right positions 
 
 ## Episodes (Releasing soon)
 
-1. Setup Job Search Tracker Sheet
-2. How to Read and Interpret Job Listings
-3. Tweaking Your CV to Fit Specific Job Offers
-4. My Personal Job Hunting Strategy
-5. Applying to Jobs
-6. Following Up on Job Applications
+1. [How To Track 100+ Developer Applications With One Simple Spreadsheet (Free Template)](https://youtu.be/Vl_PybjsRJ0)
+2. [How to Read and Interpret Tech Job Listings (Don't Apply Blindly!)](https://youtu.be/EAuny9vJtYM)
 
 ## Resources & Templates (Releasing soon)
 
