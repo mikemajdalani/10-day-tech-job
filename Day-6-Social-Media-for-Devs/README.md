@@ -4,9 +4,8 @@ This module guides you through building a professional online presence that enha
 
 ## Episodes (Releasing soon)
 
-1. Why Developers Need Social Media
-2. Ultimate LinkedIn Customization
-3. The Secrets of Growing on LinkedIn
+1. [Why Every Developer Needs a STRONG Social Media Presence](https://youtu.be/ozHIOKdvhXQ)
+2. [LinkedIn Profile Setup & Growth Strategy for Developers](https://youtu.be/ci2v9SzubHY)
 
 ## Resources & Templates (Releasing soon)
 
