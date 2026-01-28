@@ -4,10 +4,9 @@ This module teaches you how to create application materials that get past automa
 
 ## Episodes (Releasing soon)
 
-1. How Companies View Your Resume
-2. Craft a Winning Resume
-3. HR CV Filtering Session
-4. Write a Cover Letter
+1. [How Tech Companies View Your Developer Resume (What They REALLY Care About)](https://youtu.be/WOnqJcuCLK0)
+2. [How to Write a Developer Cover Letter That Actually Gets You Hired](https://youtu.be/OobCa2MGCcc)
+3. [I Became HR and Filtered Printed Developer Resumes (Guess Who Passed?)](https://youtu.be/g_LDjTB54aQ)
 
 ## Resources & Templates (Releasing soon)
 
