@@ -4,9 +4,8 @@ This module shows you how to leverage GitHub as a powerful tool for showcasing y
 
 ## Episodes (Releasing soon)
 
-1. Why Not to Ignore GitHub
-2. Ultimate GitHub Customization
-3. How To Contribute to Open Source
+1. [Why Every Developer NEEDS a Strong GitHub Presence](https://youtu.be/wPTr3McL9Is)
+2. [How to Make Your First Open Source Contribution on GitHub (Step-by-Step Guide)](https://youtu.be/7H3DhAUP0Ak)
 
 ## Resources & Templates (Releasing soon)
 
