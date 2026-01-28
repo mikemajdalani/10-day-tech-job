@@ -4,11 +4,9 @@ This module prepares you for different types of tech interviews with practical g
 
 ## Episodes (Releasing soon)
 
-1. The Screening Interview
-2. The Technical Interview
-3. Mock Technical Interview
-4. The Behavioral Interviews
-5. Mock Behavioral Interview
+1. [Screening Interview for Developers: What to Expect and How to Prepare](https://youtu.be/d_NlHZI346A)
+2. [Technical Interview for Developers: What to Expect and How to Prepare](https://youtu.be/ChX3RDI2OFs)
+3. [Behavioral Interview for Developers: What to Expect and How to Prepare](https://youtu.be/eP9mKdpj3DA)
 
 ## Resources & Templates (Releasing soon)
 
